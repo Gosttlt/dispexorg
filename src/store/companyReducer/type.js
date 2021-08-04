@@ -1,0 +1,5 @@
+export const SET_COMPANIES = 'companyReducer/SET_COMPANIES'
+export const SET_CURRENT_COMPANY = 'companyReducer/SET_CURRENT_COMPANY'
+export const IS_LOADING = 'companyReducer/IS_LOADING'
+export const DELETE_TENANT = 'companyReducer/DELETE_TENANT'
+export const ADD_TENANT = 'companyReducer/ADD_TENANT'
